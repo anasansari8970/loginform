@@ -7,7 +7,7 @@ showBtn.addEventListener("click", function(){
        showBtn.style.color = "#3498db";
    }else{
     pass_field.type = "password";
-    showBtn.textContent  = "show";
+    showBtn.textContent  = "SHOW";
     showBtn.style.color = "#222";
    }
 })
